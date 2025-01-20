@@ -96,10 +96,10 @@ h4 {
   text-align: center;
   margin-top: 15px;
   transition: 0.6s;
-  white-space: nowrap; /* Evita que el texto se rompa en varias líneas */
-  overflow: hidden;    /* Oculta el texto que se desborda */
-  text-overflow: ellipsis; /* Muestra "..." al final si el texto es demasiado largo */
-  max-width: 150px; /* Ajusta este valor a lo que necesites para el largo */
+  white-space: nowrap; 
+  overflow: hidden;    
+  text-overflow: ellipsis; 
+  max-width: 150px; 
 }
 h4:hover {
   color: green;
